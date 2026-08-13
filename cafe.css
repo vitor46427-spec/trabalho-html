@@ -1,0 +1,16 @@
+.principal {
+    background-color: beige;
+    text-align: center;
+}
+
+.Paragrafo {
+    font: bold;
+    background-color: white;
+    color: brown;
+}
+
+.Sobre-Nós {
+    background-color: brown;
+    color: white;
+    font: bold;
+}
